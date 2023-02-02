@@ -1,0 +1,51 @@
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 24px;
+}
+
+input[type=text] {
+  background-color: white;
+  background-image: url('searchicon.jpg');
+  background-position: 0px 5px;
+  background-repeat: no-repeat;
+  background-size: 50px;
+  width: 50%;
+  height: 60px;
+  padding: 20px 50px;
+  margin: 20px 10px;
+  box-sizing: border-box;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+.form {
+  background-color: grey;
+  color: white;
+}
+
+#profilePic {
+  width: 300px;
+  height: 400px;
+}
+
+.userDetails {
+  background-color: #2f3836;
+}
+
+ul {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;;
+}
+
+ul li {
+  background: #1abc9c;
+  color: black;
+  margin: 5px;
+}

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    class="header"
+  >
+    <h1>
+      GitHub and GitLab users
+    </h1>
+  </div>
+  <div
+    class="form"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <label>
+        Search for a user:
+        <input
+          onChange={[Function]}
+          placeholder="Search..."
+          type="text"
+        />
+      </label>
+    </form>
+    <p>
+      Hint --- Press enter once you have typed out your word
+    </p>
+  </div>
+</div>
+`;
